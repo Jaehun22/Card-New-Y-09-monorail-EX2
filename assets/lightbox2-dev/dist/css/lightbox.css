@@ -1,11 +1,3 @@
-
-/*
-name : Lokesh Dhakar
-homepage link : https://lokeshdhakar.com/projects/lightbox2/#license
-git
-license : https://github.com/lokesh/lightbox2/blob/dev/LICENSE
-*/
-
 html.lb-disable-scrolling {
   overflow: hidden;
   /* Position fixed required for iOS. Just putting overflow: hidden; on the body is not enough. */
